@@ -1,5 +1,5 @@
 {
   "app_enabled": true,
-  "maintenance": true,
-  "force_update": false
+  "maintenance": false,
+  "force_update": true
 }
